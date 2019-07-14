@@ -1,4 +1,4 @@
-# Purchasing-power-parity-graphs
+# Purchasing power parity graphs
 
 ![Preview](https://raw.githubusercontent.com/yc-tsui/Purchasing-power-parity-graphs/master/jitter.png)
 
